@@ -1,0 +1,14 @@
+{
+  "name": "tmsolution-checkbox-switch",
+  "description": "css for checkbox",
+  "keywords": [
+    "checkbox", "switch"
+  
+  ],
+  "version": "1.0",
+  "authors": [
+    " Mariusz Piela, Lukasz Sobieraj"
+  ],
+  "license": "MIT"
+  
+}
