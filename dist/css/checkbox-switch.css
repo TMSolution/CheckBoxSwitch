@@ -85,7 +85,7 @@
 
 .switch-handle {
   position: absolute;
-  top: 4px;
+  top: 3px;
   right: 34px;
   width: 18px;
   height: 18px;
@@ -118,7 +118,7 @@
   background-image: linear-gradient(to bottom, #eeeeee, white);
 }
 .switch-input:checked ~ .switch-handle {
-  right:0px;
+  right:3px;
   box-shadow: -1px 1px 5px rgba(0, 0, 0, 0.2);
 }
 
